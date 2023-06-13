@@ -1,10 +1,9 @@
 * sequence-iterators
 
+DOSEQUENCE & Co.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/sequence-iterators/sequence-iterators.git   |
-| commit  |   |
-| systems | sequence-iterators |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/sequence-iterators/sequence-iterators.git |
+| commit  | 5168bbe                                                                      |
+| systems | sequence-iterators                                                           |
+|---------+------------------------------------------------------------------------------|
